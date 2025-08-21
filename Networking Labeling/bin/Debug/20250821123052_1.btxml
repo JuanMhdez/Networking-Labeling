@@ -1,0 +1,14 @@
+﻿<?xml version= '1.0' encoding = 'UTF-8'?>
+<XMLScript Version="2.0">
+  <Command>
+    <Print JobName="Job_2025/08/21 12:30:52">
+      <Format>D:\Integration\FileDrop\RunCardXML\OPTO\C1XX-LabelFormat.btw</Format>
+      <PrintSetup>
+        <Printer>MGTEST</Printer>
+      </PrintSetup>
+      <NamedSubString Name="2D MATRIX CODE DATA">
+        <Value>25081130511</Value>
+      </NamedSubString>
+    </Print>
+  </Command>
+</XMLScript>

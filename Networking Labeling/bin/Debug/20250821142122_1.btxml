@@ -1,0 +1,14 @@
+﻿<?xml version= '1.0' encoding = 'UTF-8'?>
+<XMLScript Version="2.0">
+  <Command>
+    <Print JobName="Job_2025/08/21 14:21:22">
+      <Format>D:\Integration\FileDrop\RunCardXML\OPTO\FORD 2.btw</Format>
+      <PrintSetup>
+        <Printer>BPMG7i</Printer>
+      </PrintSetup>
+      <NamedSubString Name="2D MATRIX CODE DATA">
+        <Value>25081321201</Value>
+      </NamedSubString>
+    </Print>
+  </Command>
+</XMLScript>

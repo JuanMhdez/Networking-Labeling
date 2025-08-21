@@ -1,0 +1,91 @@
+C:\Users\sergil1\source\repos\Networking Labeling\Networking Labeling\bin\Debug\Networking Labeling.exe.config
+C:\Users\sergil1\source\repos\Networking Labeling\Networking Labeling\bin\Debug\Networking Labeling.exe
+C:\Users\sergil1\source\repos\Networking Labeling\Networking Labeling\bin\Debug\Networking Labeling.pdb
+C:\Users\sergil1\source\repos\Networking Labeling\Networking Labeling\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sergil1\source\repos\Networking Labeling\Networking Labeling\bin\Debug\MySqlConnector.dll
+C:\Users\sergil1\source\repos\Networking Labeling\Networking Labeling\bin\Debug\System.Buffers.dll
+C:\Users\sergil1\source\repos\Networking Labeling\Networking Labeling\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sergil1\source\repos\Networking Labeling\Networking Labeling\bin\Debug\System.Memory.dll
+C:\Users\sergil1\source\repos\Networking Labeling\Networking Labeling\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sergil1\source\repos\Networking Labeling\Networking Labeling\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sergil1\source\repos\Networking Labeling\Networking Labeling\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\sergil1\source\repos\Networking Labeling\Networking Labeling\bin\Debug\System.ValueTuple.dll
+C:\Users\sergil1\source\repos\Networking Labeling\Networking Labeling\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\sergil1\source\repos\Networking Labeling\Networking Labeling\bin\Debug\MySqlConnector.xml
+C:\Users\sergil1\source\repos\Networking Labeling\Networking Labeling\bin\Debug\System.Buffers.xml
+C:\Users\sergil1\source\repos\Networking Labeling\Networking Labeling\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\sergil1\source\repos\Networking Labeling\Networking Labeling\bin\Debug\System.Memory.xml
+C:\Users\sergil1\source\repos\Networking Labeling\Networking Labeling\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\sergil1\source\repos\Networking Labeling\Networking Labeling\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sergil1\source\repos\Networking Labeling\Networking Labeling\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\sergil1\source\repos\Networking Labeling\Networking Labeling\obj\Debug\Networking Labeling.csproj.AssemblyReference.cache
+C:\Users\sergil1\source\repos\Networking Labeling\Networking Labeling\obj\Debug\Networking_Labeling.Main.resources
+C:\Users\sergil1\source\repos\Networking Labeling\Networking Labeling\obj\Debug\Networking_Labeling.Properties.Resources.resources
+C:\Users\sergil1\source\repos\Networking Labeling\Networking Labeling\obj\Debug\Networking Labeling.csproj.GenerateResource.cache
+C:\Users\sergil1\source\repos\Networking Labeling\Networking Labeling\obj\Debug\Networking Labeling.csproj.CoreCompileInputs.cache
+C:\Users\sergil1\source\repos\Networking Labeling\Networking Labeling\obj\Debug\Networking Labeling.csproj.CopyComplete
+C:\Users\sergil1\source\repos\Networking Labeling\Networking Labeling\obj\Debug\Networking Labeling.exe
+C:\Users\sergil1\source\repos\Networking Labeling\Networking Labeling\obj\Debug\Networking Labeling.pdb
+C:\Users\sergil1\source\repos\Networking Labeling\Networking Labeling\bin\Debug\config.ini
+C:\Users\sergil1\source\repos\Networking Labeling\Networking Labeling\obj\Debug\Networking_Labeling.Message.resources
+G:\programs\LABVIEW\MES (RUNCARD)\A. Production Apps\Networking\Networking Labeling\Networking Labeling\bin\Debug\config.ini
+G:\programs\LABVIEW\MES (RUNCARD)\A. Production Apps\Networking\Networking Labeling\Networking Labeling\bin\Debug\Networking Labeling.exe.config
+G:\programs\LABVIEW\MES (RUNCARD)\A. Production Apps\Networking\Networking Labeling\Networking Labeling\bin\Debug\Networking Labeling.exe
+G:\programs\LABVIEW\MES (RUNCARD)\A. Production Apps\Networking\Networking Labeling\Networking Labeling\bin\Debug\Networking Labeling.pdb
+G:\programs\LABVIEW\MES (RUNCARD)\A. Production Apps\Networking\Networking Labeling\Networking Labeling\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+G:\programs\LABVIEW\MES (RUNCARD)\A. Production Apps\Networking\Networking Labeling\Networking Labeling\bin\Debug\MySqlConnector.dll
+G:\programs\LABVIEW\MES (RUNCARD)\A. Production Apps\Networking\Networking Labeling\Networking Labeling\bin\Debug\System.Buffers.dll
+G:\programs\LABVIEW\MES (RUNCARD)\A. Production Apps\Networking\Networking Labeling\Networking Labeling\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+G:\programs\LABVIEW\MES (RUNCARD)\A. Production Apps\Networking\Networking Labeling\Networking Labeling\bin\Debug\System.Memory.dll
+G:\programs\LABVIEW\MES (RUNCARD)\A. Production Apps\Networking\Networking Labeling\Networking Labeling\bin\Debug\System.Numerics.Vectors.dll
+G:\programs\LABVIEW\MES (RUNCARD)\A. Production Apps\Networking\Networking Labeling\Networking Labeling\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\programs\LABVIEW\MES (RUNCARD)\A. Production Apps\Networking\Networking Labeling\Networking Labeling\bin\Debug\System.Threading.Tasks.Extensions.dll
+G:\programs\LABVIEW\MES (RUNCARD)\A. Production Apps\Networking\Networking Labeling\Networking Labeling\bin\Debug\System.ValueTuple.dll
+G:\programs\LABVIEW\MES (RUNCARD)\A. Production Apps\Networking\Networking Labeling\Networking Labeling\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+G:\programs\LABVIEW\MES (RUNCARD)\A. Production Apps\Networking\Networking Labeling\Networking Labeling\bin\Debug\MySqlConnector.xml
+G:\programs\LABVIEW\MES (RUNCARD)\A. Production Apps\Networking\Networking Labeling\Networking Labeling\bin\Debug\System.Buffers.xml
+G:\programs\LABVIEW\MES (RUNCARD)\A. Production Apps\Networking\Networking Labeling\Networking Labeling\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+G:\programs\LABVIEW\MES (RUNCARD)\A. Production Apps\Networking\Networking Labeling\Networking Labeling\bin\Debug\System.Memory.xml
+G:\programs\LABVIEW\MES (RUNCARD)\A. Production Apps\Networking\Networking Labeling\Networking Labeling\bin\Debug\System.Numerics.Vectors.xml
+G:\programs\LABVIEW\MES (RUNCARD)\A. Production Apps\Networking\Networking Labeling\Networking Labeling\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\programs\LABVIEW\MES (RUNCARD)\A. Production Apps\Networking\Networking Labeling\Networking Labeling\bin\Debug\System.Threading.Tasks.Extensions.xml
+G:\programs\LABVIEW\MES (RUNCARD)\A. Production Apps\Networking\Networking Labeling\Networking Labeling\obj\Debug\Networking Labeling.csproj.AssemblyReference.cache
+G:\programs\LABVIEW\MES (RUNCARD)\A. Production Apps\Networking\Networking Labeling\Networking Labeling\obj\Debug\Networking_Labeling.Main.resources
+G:\programs\LABVIEW\MES (RUNCARD)\A. Production Apps\Networking\Networking Labeling\Networking Labeling\obj\Debug\Networking_Labeling.Message.resources
+G:\programs\LABVIEW\MES (RUNCARD)\A. Production Apps\Networking\Networking Labeling\Networking Labeling\obj\Debug\Networking_Labeling.Properties.Resources.resources
+G:\programs\LABVIEW\MES (RUNCARD)\A. Production Apps\Networking\Networking Labeling\Networking Labeling\obj\Debug\Networking Labeling.csproj.GenerateResource.cache
+G:\programs\LABVIEW\MES (RUNCARD)\A. Production Apps\Networking\Networking Labeling\Networking Labeling\obj\Debug\Networking Labeling.csproj.CoreCompileInputs.cache
+G:\programs\LABVIEW\MES (RUNCARD)\A. Production Apps\Networking\Networking Labeling\Networking Labeling\obj\Debug\Networki.8F0F98D4.Up2Date
+G:\programs\LABVIEW\MES (RUNCARD)\A. Production Apps\Networking\Networking Labeling\Networking Labeling\obj\Debug\Networking Labeling.exe
+G:\programs\LABVIEW\MES (RUNCARD)\A. Production Apps\Networking\Networking Labeling\Networking Labeling\obj\Debug\Networking Labeling.pdb
+C:\Users\juanh25\OneDrive - kochind.com\Desktop\Networking Labeling\Networking Labeling\bin\Debug\config.ini
+C:\Users\juanh25\OneDrive - kochind.com\Desktop\Networking Labeling\Networking Labeling\bin\Debug\Networking Labeling.exe.config
+C:\Users\juanh25\OneDrive - kochind.com\Desktop\Networking Labeling\Networking Labeling\bin\Debug\Networking Labeling.exe
+C:\Users\juanh25\OneDrive - kochind.com\Desktop\Networking Labeling\Networking Labeling\bin\Debug\Networking Labeling.pdb
+C:\Users\juanh25\OneDrive - kochind.com\Desktop\Networking Labeling\Networking Labeling\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\juanh25\OneDrive - kochind.com\Desktop\Networking Labeling\Networking Labeling\bin\Debug\MySqlConnector.dll
+C:\Users\juanh25\OneDrive - kochind.com\Desktop\Networking Labeling\Networking Labeling\bin\Debug\System.Buffers.dll
+C:\Users\juanh25\OneDrive - kochind.com\Desktop\Networking Labeling\Networking Labeling\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\juanh25\OneDrive - kochind.com\Desktop\Networking Labeling\Networking Labeling\bin\Debug\System.Memory.dll
+C:\Users\juanh25\OneDrive - kochind.com\Desktop\Networking Labeling\Networking Labeling\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\juanh25\OneDrive - kochind.com\Desktop\Networking Labeling\Networking Labeling\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\juanh25\OneDrive - kochind.com\Desktop\Networking Labeling\Networking Labeling\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\juanh25\OneDrive - kochind.com\Desktop\Networking Labeling\Networking Labeling\bin\Debug\System.ValueTuple.dll
+C:\Users\juanh25\OneDrive - kochind.com\Desktop\Networking Labeling\Networking Labeling\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\juanh25\OneDrive - kochind.com\Desktop\Networking Labeling\Networking Labeling\bin\Debug\MySqlConnector.xml
+C:\Users\juanh25\OneDrive - kochind.com\Desktop\Networking Labeling\Networking Labeling\bin\Debug\System.Buffers.xml
+C:\Users\juanh25\OneDrive - kochind.com\Desktop\Networking Labeling\Networking Labeling\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\juanh25\OneDrive - kochind.com\Desktop\Networking Labeling\Networking Labeling\bin\Debug\System.Memory.xml
+C:\Users\juanh25\OneDrive - kochind.com\Desktop\Networking Labeling\Networking Labeling\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\juanh25\OneDrive - kochind.com\Desktop\Networking Labeling\Networking Labeling\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\juanh25\OneDrive - kochind.com\Desktop\Networking Labeling\Networking Labeling\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\juanh25\OneDrive - kochind.com\Desktop\Networking Labeling\Networking Labeling\obj\Debug\Networking Labeling.csproj.AssemblyReference.cache
+C:\Users\juanh25\OneDrive - kochind.com\Desktop\Networking Labeling\Networking Labeling\obj\Debug\Networking_Labeling.Main.resources
+C:\Users\juanh25\OneDrive - kochind.com\Desktop\Networking Labeling\Networking Labeling\obj\Debug\Networking_Labeling.Message.resources
+C:\Users\juanh25\OneDrive - kochind.com\Desktop\Networking Labeling\Networking Labeling\obj\Debug\Networking_Labeling.Properties.Resources.resources
+C:\Users\juanh25\OneDrive - kochind.com\Desktop\Networking Labeling\Networking Labeling\obj\Debug\Networking Labeling.csproj.GenerateResource.cache
+C:\Users\juanh25\OneDrive - kochind.com\Desktop\Networking Labeling\Networking Labeling\obj\Debug\Networking Labeling.csproj.CoreCompileInputs.cache
+C:\Users\juanh25\OneDrive - kochind.com\Desktop\Networking Labeling\Networking Labeling\obj\Debug\Networki.8F0F98D4.Up2Date
+C:\Users\juanh25\OneDrive - kochind.com\Desktop\Networking Labeling\Networking Labeling\obj\Debug\Networking Labeling.exe
+C:\Users\juanh25\OneDrive - kochind.com\Desktop\Networking Labeling\Networking Labeling\obj\Debug\Networking Labeling.pdb
+C:\Users\juanh25\OneDrive - kochind.com\Desktop\Networking Labeling\Networking Labeling\obj\Debug\Networking Labeling.exe.config

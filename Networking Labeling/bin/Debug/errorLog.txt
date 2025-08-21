@@ -1,0 +1,67 @@
+10/09/24 07:32:12,Error al conectar a la Base de Datos:Access denied for user 'dbuser'@'10.223.97.59' (using password: YES)
+10/09/24 07:32:45,Error al conectar a la Base de Datos:Access denied for user 'salopez'@'%' to database 'runcard'
+10/09/24 07:33:27,Error al conectar a la Base de Datos:Unable to connect to any of the specified MySQL hosts.
+08/13/2025 12:11:43,Error al generar el siguiente serial
+08/13/2025 12:11:44,Error al generar el siguiente serial
+08/13/2025 12:11:45,Error al generar el siguiente serial
+08/13/2025 12:11:45,Error al generar el siguiente serial
+08/13/2025 12:11:46,Error al generar el siguiente serial
+08/13/2025 12:11:46,Error al generar el siguiente serial
+08/13/2025 12:11:46,Error al generar el siguiente serial
+08/13/2025 12:11:47,Error al generar el siguiente serial
+08/13/2025 12:11:47,Error al generar el siguiente serial
+08/13/2025 12:11:47,Error al generar el siguiente serial
+08/13/2025 12:11:47,Error al generar el siguiente serial
+08/13/2025 12:11:47,Error al generar el siguiente serial
+08/13/2025 12:11:48,Error al generar el siguiente serial
+08/13/2025 12:11:48,Error al generar el siguiente serial
+08/13/2025 12:11:48,Error al generar el siguiente serial
+08/13/2025 12:11:48,Error al generar el siguiente serial
+08/13/2025 12:11:49,Error al generar el siguiente serial
+08/13/2025 12:11:49,Error al generar el siguiente serial
+08/13/2025 12:11:49,Error al generar el siguiente serial
+08/13/2025 12:11:50,Error al generar el siguiente serial
+08/13/2025 12:11:50,Error al generar el siguiente serial
+08/13/2025 12:11:50,Error al generar el siguiente serial
+08/13/2025 12:11:51,Error al generar el siguiente serial
+08/13/2025 12:11:51,Error al generar el siguiente serial
+08/13/2025 12:11:52,Error al generar el siguiente serial
+08/13/2025 12:11:52,Error al generar el siguiente serial
+08/13/2025 12:11:53,Error al generar el siguiente serial
+08/13/2025 12:11:53,Error al generar el siguiente serial
+08/13/2025 12:11:53,Error al generar el siguiente serial
+08/13/2025 12:11:53,Error al generar el siguiente serial
+08/13/2025 12:11:53,Error al generar el siguiente serial
+08/13/2025 12:11:53,Error al generar el siguiente serial
+08/13/2025 12:11:54,Error al generar el siguiente serial
+08/13/2025 12:11:54,Error al generar el siguiente serial
+08/13/2025 12:11:54,Error al generar el siguiente serial
+08/13/2025 12:11:54,Error al generar el siguiente serial
+08/13/2025 12:11:54,Error al generar el siguiente serial
+08/13/2025 12:11:54,Error al generar el siguiente serial
+08/13/2025 12:11:55,Error al generar el siguiente serial
+08/13/2025 12:11:55,Error al generar el siguiente serial
+08/13/2025 12:11:55,Error al generar el siguiente serial
+08/13/2025 12:11:55,Error al generar el siguiente serial
+08/13/2025 12:11:55,Error al generar el siguiente serial
+08/13/2025 12:11:55,Error al generar el siguiente serial
+08/13/2025 12:11:55,Error al generar el siguiente serial
+08/13/2025 12:11:56,Error al generar el siguiente serial
+08/13/2025 12:11:56,Error al generar el siguiente serial
+08/13/2025 12:11:56,Error al generar el siguiente serial
+08/13/2025 12:11:56,Error al generar el siguiente serial
+08/13/2025 12:11:57,Error al generar el siguiente serial
+08/13/2025 12:11:57,Error al generar el siguiente serial
+08/13/2025 12:11:57,Error al generar el siguiente serial
+08/13/2025 12:11:57,Error al generar el siguiente serial
+08/13/2025 12:11:57,Error al generar el siguiente serial
+08/13/2025 12:11:57,Error al generar el siguiente serial
+08/13/2025 12:11:58,Error al generar el siguiente serial
+08/13/2025 12:12:00,Error al generar el siguiente serial
+08/13/2025 12:52:19,Pase NO otorgado al serial 25081152001:Either a user name and/or machine ID must be specified
+08/13/2025 12:52:25,Pase NO otorgado al serial 25081152001:Either a user name and/or machine ID must be specified
+08/13/2025 12:57:45,Pase NO otorgado al serial 25081157101:Either a user name and/or machine ID must be specified
+08/21/2025 12:18:26,Error al generar el siguiente serial
+08/21/2025 12:18:27,Error al generar el siguiente serial
+08/21/2025 12:18:30,Error al generar el siguiente serial
+08/21/2025 12:18:31,Error al generar el siguiente serial
