@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\juanh25\\OneDrive - kochind.com\\Desktop\\Networking Labeling\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6F8E546A-3516-438D-BAD1-5319956960F0}|Networking Labeling\\Networking Labeling.csproj|C:\\Users\\juanh25\\OneDrive - kochind.com\\Desktop\\Networking Labeling\\networking labeling\\config.ini||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{6F8E546A-3516-438D-BAD1-5319956960F0}|Networking Labeling\\Networking Labeling.csproj|solutionrelative:networking labeling\\config.ini||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{6F8E546A-3516-438D-BAD1-5319956960F0}|Networking Labeling\\Networking Labeling.csproj|c:\\users\\juanh25\\onedrive - kochind.com\\desktop\\networking labeling\\networking labeling\\labelprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F8E546A-3516-438D-BAD1-5319956960F0}|Networking Labeling\\Networking Labeling.csproj|solutionrelative:networking labeling\\labelprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6F8E546A-3516-438D-BAD1-5319956960F0}|Networking Labeling\\Networking Labeling.csproj|C:\\Users\\juanh25\\OneDrive - kochind.com\\Desktop\\Networking Labeling\\networking labeling\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F8E546A-3516-438D-BAD1-5319956960F0}|Networking Labeling\\Networking Labeling.csproj|solutionrelative:networking labeling\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F8E546A-3516-438D-BAD1-5319956960F0}|Networking Labeling\\Networking Labeling.csproj|C:\\Users\\juanh25\\OneDrive - kochind.com\\Desktop\\Networking Labeling\\networking labeling\\labelprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F8E546A-3516-438D-BAD1-5319956960F0}|Networking Labeling\\Networking Labeling.csproj|solutionrelative:networking labeling\\labelprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6F8E546A-3516-438D-BAD1-5319956960F0}|Networking Labeling\\Networking Labeling.csproj|C:\\Users\\juanh25\\OneDrive - kochind.com\\Desktop\\Networking Labeling\\networking labeling\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F8E546A-3516-438D-BAD1-5319956960F0}|Networking Labeling\\Networking Labeling.csproj|solutionrelative:networking labeling\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F8E546A-3516-438D-BAD1-5319956960F0}|Networking Labeling\\Networking Labeling.csproj|c:\\users\\juanh25\\onedrive - kochind.com\\desktop\\networking labeling\\networking labeling\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6F8E546A-3516-438D-BAD1-5319956960F0}|Networking Labeling\\Networking Labeling.csproj|solutionrelative:networking labeling\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{6F8E546A-3516-438D-BAD1-5319956960F0}|Networking Labeling\\Networking Labeling.csproj|C:\\Users\\juanh25\\OneDrive - kochind.com\\Desktop\\Networking Labeling\\networking labeling\\config.ini||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{6F8E546A-3516-438D-BAD1-5319956960F0}|Networking Labeling\\Networking Labeling.csproj|solutionrelative:networking labeling\\config.ini||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,30 +37,33 @@
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "LabelPrint.cs",
               "DocumentMoniker": "C:\\Users\\juanh25\\OneDrive - kochind.com\\Desktop\\Networking Labeling\\Networking Labeling\\LabelPrint.cs",
               "RelativeDocumentMoniker": "Networking Labeling\\LabelPrint.cs",
               "ToolTip": "C:\\Users\\juanh25\\OneDrive - kochind.com\\Desktop\\Networking Labeling\\Networking Labeling\\LabelPrint.cs",
               "RelativeToolTip": "Networking Labeling\\LabelPrint.cs",
-              "ViewState": "AgIAAE8AAAAAAAAAAAAAAFMAAABJAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-13T19:58:08.486Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "config.ini",
               "DocumentMoniker": "C:\\Users\\juanh25\\OneDrive - kochind.com\\Desktop\\Networking Labeling\\Networking Labeling\\config.ini",
               "RelativeDocumentMoniker": "Networking Labeling\\config.ini",
               "ToolTip": "C:\\Users\\juanh25\\OneDrive - kochind.com\\Desktop\\Networking Labeling\\Networking Labeling\\config.ini",
               "RelativeToolTip": "Networking Labeling\\config.ini",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002768|",
-              "WhenOpened": "2025-08-13T18:40:14.152Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-13T18:40:14.152Z"
             },
             {
               "$type": "Document",
@@ -70,22 +73,20 @@
               "RelativeDocumentMoniker": "Networking Labeling\\Main.cs",
               "ToolTip": "C:\\Users\\juanh25\\OneDrive - kochind.com\\Desktop\\Networking Labeling\\Networking Labeling\\Main.cs",
               "RelativeToolTip": "Networking Labeling\\Main.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAowEgAAACUAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAowLoAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T18:42:24.08Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-13T18:42:24.08Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Main.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\juanh25\\OneDrive - kochind.com\\Desktop\\Networking Labeling\\Networking Labeling\\Main.cs",
               "RelativeDocumentMoniker": "Networking Labeling\\Main.cs",
               "ToolTip": "C:\\Users\\juanh25\\OneDrive - kochind.com\\Desktop\\Networking Labeling\\Networking Labeling\\Main.cs [Dise\u00F1o]",
               "RelativeToolTip": "Networking Labeling\\Main.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T18:39:33.68Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-08-13T18:39:33.68Z"
             }
           ]
         }

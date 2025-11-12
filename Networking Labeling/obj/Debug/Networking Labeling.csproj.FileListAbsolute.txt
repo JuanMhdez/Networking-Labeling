@@ -89,3 +89,7 @@ C:\Users\juanh25\OneDrive - kochind.com\Desktop\Networking Labeling\Networking L
 C:\Users\juanh25\OneDrive - kochind.com\Desktop\Networking Labeling\Networking Labeling\obj\Debug\Networking Labeling.exe
 C:\Users\juanh25\OneDrive - kochind.com\Desktop\Networking Labeling\Networking Labeling\obj\Debug\Networking Labeling.pdb
 C:\Users\juanh25\OneDrive - kochind.com\Desktop\Networking Labeling\Networking Labeling\obj\Debug\Networking Labeling.exe.config
+C:\Users\juanh25\OneDrive - kochind.com\Desktop\Networking Labeling\Networking Labeling\bin\Debug\Networking Labeling.exe.manifest
+C:\Users\juanh25\OneDrive - kochind.com\Desktop\Networking Labeling\Networking Labeling\bin\Debug\Networking Labeling.application
+C:\Users\juanh25\OneDrive - kochind.com\Desktop\Networking Labeling\Networking Labeling\obj\Debug\Networking Labeling.exe.manifest
+C:\Users\juanh25\OneDrive - kochind.com\Desktop\Networking Labeling\Networking Labeling\obj\Debug\Networking Labeling.application

@@ -85,7 +85,7 @@ namespace Networking_Labeling
                 string serverPath = localConfig.Read("PRINTER", "server");
                 string path = localConfig.Read("PRINTER", "path");
 
-                using (XmlWriter xmlWriter = XmlWriter.Create(/*path + */xmlname + ".btxml", settings))
+                using (XmlWriter xmlWriter = XmlWriter.Create(path + xmlname + ".btxml", settings))
                 {
                     //Header del XML
                     xmlWriter.WriteRaw("<?xml version= '1.0' encoding = 'UTF-8'?>\r\n");
@@ -105,7 +105,7 @@ namespace Networking_Labeling
                     xmlWriter.WriteEndElement();
                                       
                     xmlWriter.WriteStartElement("NamedSubString");
-                    xmlWriter.WriteAttributeString("Name", "2D MATRIX CODE DATA");
+                    xmlWriter.WriteAttributeString("Name", "PN");
                     xmlWriter.WriteStartElement("Value");
                     xmlWriter.WriteString(serial);
                     xmlWriter.WriteEndElement();

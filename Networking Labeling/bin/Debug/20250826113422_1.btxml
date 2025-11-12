@@ -1,0 +1,14 @@
+﻿<?xml version= '1.0' encoding = 'UTF-8'?>
+<XMLScript Version="2.0">
+  <Command>
+    <Print JobName="Job_2025/08/26 11:34:22">
+      <Format>D:\Integration\FileDrop\RunCardXML\OPTO\FORD 2.btw</Format>
+      <PrintSetup>
+        <Printer>GUMLP016</Printer>
+      </PrintSetup>
+      <NamedSubString Name="PN">
+        <Value>F4215416003423850001</Value>
+      </NamedSubString>
+    </Print>
+  </Command>
+</XMLScript>
